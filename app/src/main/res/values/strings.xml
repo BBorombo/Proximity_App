@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proximity_App</string>
+    <string name="longLabel">Longitude : </string>
+    <string name="latLabel">Latitude : </string>
+    <string name="distLabel">Distance : </string>
+    <string name="arr">%1$.3f </string>
+    <string name="imgdesc">imgdesc</string>
+
+    <string-array name="items">
+        <item>Adresse</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+
+    </string-array>
+</resources>
